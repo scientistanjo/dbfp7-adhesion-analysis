@@ -4,7 +4,7 @@ Code supporting the publication Obille et al., 2026. This repository contains AF
 ## Contents
 - `dbfp7-adhesion-analaysis.R`: Main analysis script
 
-Raw AFM image files are available from the corresponding author upon reasonable request.
+Raw AFM image files are available from the corresponding author upon request.
 
 ## Dependencies
 R version 4.4.0
